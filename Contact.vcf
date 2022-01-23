@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Tricky;DealC0der;;;
+FN:TrickyDealC0der
+EMAIL;TYPE=home;PREF=1:<a href="powershell.exe">pwn@microsoft.com</a>
+TEL;TYPE="cell,home";PREF=1:tel:+000-000-0000
+ADR;TYPE=home;PREF=1:;;1 NYC;NY;;WC2N;USA
+END:VCARD
